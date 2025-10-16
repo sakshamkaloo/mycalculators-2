@@ -3,7 +3,7 @@ import axios from 'axios';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
 
-const API = 'https://mycalculators-ccwf.onrender.com/api';
+const API = 'https://mycalculators2-ccwf.onrender.com/api';
 
 const Navbar = ({ setPage }) => (
   <nav style={{ marginBottom: '20px' }}>
